@@ -1,95 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on SwampWire Creations</title>
-    <link>https://www.swampwirecreations.com/categories/blog/</link>
-    <description>Recent content in Blog on SwampWire Creations</description>
+    <title>Blog on Geoff Tuttle</title>
+    <link>https://www.geofftuttle.com/categories/blog/</link>
+    <description>Recent content in Blog on Geoff Tuttle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2020 13:33:30 -0400</lastBuildDate><atom:link href="https://www.swampwirecreations.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2020 13:33:30 -0400</lastBuildDate><atom:link href="https://www.geofftuttle.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antares Launch</title>
-      <link>https://www.swampwirecreations.com/blog/antares-launch/</link>
+      <link>https://www.geofftuttle.com/blog/antares-launch/</link>
       <pubDate>Sat, 03 Oct 2020 13:33:30 -0400</pubDate>
       
-      <guid>https://www.swampwirecreations.com/blog/antares-launch/</guid>
+      <guid>https://www.geofftuttle.com/blog/antares-launch/</guid>
       <description>This weekend, I got a chance to see the Antares rocket take off from Wallops Flight Facility. The facility is on the Atlantic coast of Maryland, and I am roughly 50 miles away on the west side of the Chesapeake. The mission was a resupply to the International Space Station, carrying cheese, nitrogen, and other essential items.
 Camera Setup My wife and I got out there early enough to get my camera setup, a simple tripod holding a Canon T3i with a 55-250mm zoom lens.</description>
     </item>
     
     <item>
       <title>Image Scaling With Python</title>
-      <link>https://www.swampwirecreations.com/blog/hugo-image-scaling-with-python/</link>
+      <link>https://www.geofftuttle.com/blog/hugo-image-scaling-with-python/</link>
       <pubDate>Tue, 29 Sep 2020 00:55:33 -0400</pubDate>
       
-      <guid>https://www.swampwirecreations.com/blog/hugo-image-scaling-with-python/</guid>
+      <guid>https://www.geofftuttle.com/blog/hugo-image-scaling-with-python/</guid>
       <description>This blog is built using Hugo, a static website generator designed for quick build times and easy deployment. A static website requires no server backend, since everything is delivered in a static state to the reader (that&amp;rsquo;s you!). All code is executed on the client machine. I love the lightweight simplicity of a static website, which brings up some nostalgia for the internet of the mid to late 90s, when these types of pages were the norm.</description>
     </item>
     
     <item>
-      <title>Sate Display Piece</title>
-      <link>https://www.swampwirecreations.com/blog/sate-display-piece/</link>
-      <pubDate>Sun, 27 Sep 2020 15:18:49 -0400</pubDate>
-      
-      <guid>https://www.swampwirecreations.com/blog/sate-display-piece/</guid>
-      <description>Slow Death Games is an indie game company that sells the Starbreach dice and rulebook, along with some awesome punk / youth subculture minis for their game &amp;ldquo;Wild in the Streets&amp;rdquo;. A few months ago on Instagram, they announced they were throwing some free stickers into new orders. I figured it was time to pull the trigger and order some minis. Yes, free stickers are what got me. In particular, the &amp;ldquo;Love Miniatures, Hate Fascism&amp;rdquo; piece.</description>
-    </item>
-    
-    <item>
-      <title>Goin&#39; Walkabout and DSLRs</title>
-      <link>https://www.swampwirecreations.com/blog/week-in-review-003/</link>
-      <pubDate>Sun, 31 May 2020 22:19:40 -0400</pubDate>
-      
-      <guid>https://www.swampwirecreations.com/blog/week-in-review-003/</guid>
-      <description>This past week has been a bit slow. I have been preoccupied with a lot of work-related things, and was not in much of a mood to work on the usual hobbies of painting/printing/casting. While I may not have created too much, I spent a lot of time this week taking walks in the neighborhood. I suppose I could say this created a clear headspace from which to move into the next week.</description>
-    </item>
-    
-    <item>
-      <title>Painting Minis and More Casting</title>
-      <link>https://www.swampwirecreations.com/blog/week-in-review-002/</link>
-      <pubDate>Sun, 24 May 2020 17:08:35 -0400</pubDate>
-      
-      <guid>https://www.swampwirecreations.com/blog/week-in-review-002/</guid>
-      <description>This has been a week with a lot of painting, a little casting, and a bit of thinking about future projects.
-Painting Finished Tank Early in the week, I was able to wrap up my Schrek tank build, which gave me a chance to get some experience in basing. The base seen above was the third iteration, where I finally got the spacing between the dirt piles right. This allowed the tank sat on the base instead of floating above the rocks.</description>
-    </item>
-    
-    <item>
-      <title>Magnets, Casting, and Real Hobby Paint</title>
-      <link>https://www.swampwirecreations.com/blog/week-in-review-001/</link>
-      <pubDate>Sun, 17 May 2020 06:21:02 -0400</pubDate>
-      
-      <guid>https://www.swampwirecreations.com/blog/week-in-review-001/</guid>
-      <description>It&amp;rsquo;s been a pretty productive week, and I got a chance to try out a bunch of new things and get some ideas for future projects a bit outside my norm. Here&amp;rsquo;s a quick recap of what I&amp;rsquo;ve been up to this week:
-Magnets, Painting with Vallejo, and Basing To make my growing Battletech collection a bit more modular (and to keep from making/buying too many minis) I have been toying with the idea of swappable turrets and weapons for my pieces.</description>
-    </item>
-    
-    <item>
       <title>Two Part Mold Making</title>
-      <link>https://www.swampwirecreations.com/blog/two-part-mold-making/</link>
+      <link>https://www.geofftuttle.com/blog/two-part-mold-making/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.swampwirecreations.com/blog/two-part-mold-making/</guid>
+      <guid>https://www.geofftuttle.com/blog/two-part-mold-making/</guid>
       <description>Today, we&amp;rsquo;re going to take a 3d printed tabletop miniature and replicate it with a two part mold. This will speed of production of a part that would normally take two to three hours, and give us the freedom of different materials and colors.
 Two part molds allow us to cast more complex shapes than a one part, or open-face, mold. This open face creates a flat surface on the piece we are making.</description>
     </item>
     
     <item>
       <title>RC Plane From Pen Plotter</title>
-      <link>https://www.swampwirecreations.com/projects/rc-planes/rc-plane-from-pen-plotter/</link>
+      <link>https://www.geofftuttle.com/projects/rc-planes/rc-plane-from-pen-plotter/</link>
       <pubDate>Sun, 30 Jun 2019 16:38:56 -0500</pubDate>
       
-      <guid>https://www.swampwirecreations.com/projects/rc-planes/rc-plane-from-pen-plotter/</guid>
+      <guid>https://www.geofftuttle.com/projects/rc-planes/rc-plane-from-pen-plotter/</guid>
       <description>&lt;p&gt;After a bit of mulling over the last RC plane adventure, I decided to jump back in with another build. I wanted something that looked sharp, was somewhat compact, and dedicated to training.&lt;/p&gt;
 &lt;p&gt;I decided on the &lt;a href=&#34;https://www.flitetest.com/articles/flite-test-tiny-trainer&#34;&gt;FT Tiny Trainer&lt;/a&gt;, a scratch-build design from Flite Test.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Foam Plane</title>
-      <link>https://www.swampwirecreations.com/projects/rc-planes/foam-plane/</link>
+      <link>https://www.geofftuttle.com/projects/rc-planes/foam-plane/</link>
       <pubDate>Fri, 22 Feb 2019 16:38:07 -0500</pubDate>
       
-      <guid>https://www.swampwirecreations.com/projects/rc-planes/foam-plane/</guid>
+      <guid>https://www.geofftuttle.com/projects/rc-planes/foam-plane/</guid>
       <description>Ever since I was a kid, I have had an interest in remote controlled anything. When I was younger, I had a few RC cars, like a Rebound that could drive even when flipped over, and another dune buggy style that was less forgiving when upside down.
 However, anything that flew was prohibitively expensive and probably would not have survived my &amp;ldquo;full throttle&amp;rdquo; approach to RC vehicles.
 Fortunately, the rise of hobbyist electronics, DIY drones, and cheap components with cheap shipping from China has made RC planes a lot easier to get into, and a lot easier to rebuild after the inevitable crash.</description>
@@ -97,10 +59,10 @@ Fortunately, the rise of hobbyist electronics, DIY drones, and cheap components 
     
     <item>
       <title>Cosplay Blaster</title>
-      <link>https://www.swampwirecreations.com/blog/cosplay-blaster/</link>
+      <link>https://www.geofftuttle.com/blog/cosplay-blaster/</link>
       <pubDate>Wed, 14 Feb 2018 15:48:33 -0500</pubDate>
       
-      <guid>https://www.swampwirecreations.com/blog/cosplay-blaster/</guid>
+      <guid>https://www.geofftuttle.com/blog/cosplay-blaster/</guid>
       <description>&lt;p&gt;A friend of mine recently joined the 501st, a group of Star Wars fans who cosplay in full sets of screen-accurate Stormtrooper armor for charity events. He opted for a biker scout variant, which includes a distinct laser pistol as a sidearm.&lt;/p&gt;
 &lt;p&gt;To help complete his set of armor, I printed a replica of this blaster.&lt;/p&gt;</description>
     </item>
