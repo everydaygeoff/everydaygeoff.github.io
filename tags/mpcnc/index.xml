@@ -6,7 +6,16 @@
     <description>Recent content in MPCNC on Geoff Tuttle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2020 10:15:20 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/tags/mpcnc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 12:16:06 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/tags/mpcnc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EVA Spoilboard</title>
+      <link>https://www.geofftuttle.com/projects/mpcnc/eva-spoilboard/</link>
+      <pubDate>Tue, 01 Dec 2020 12:16:06 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/mpcnc/eva-spoilboard/</guid>
+      <description>&lt;p&gt;I have been thinking about this project for a long time. After I started using the needle cutter, I really wanted a vacuum table that could flatten the foamboard, and an underlying work surface that would not destroy the cutting tool.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Getting Better</title>
       <link>https://www.geofftuttle.com/projects/mpcnc/getting-better/</link>
