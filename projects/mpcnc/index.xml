@@ -46,6 +46,15 @@ Router Choice and Prints For a router, V1 Engineering recommend the Dewalt 660, 
     </item>
     
     <item>
+      <title>Needle Cutter Rebuild</title>
+      <link>https://www.geofftuttle.com/projects/mpcnc/needle-cutter-rebuild/</link>
+      <pubDate>Mon, 17 Feb 2020 16:36:06 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/mpcnc/needle-cutter-rebuild/</guid>
+      <description>&lt;p&gt;After a hiatus, I decided to revisit the needle cutter and get back to making planes from the free svg plans on FliteTest. I wanted to characterize the performance of the MPCNC and develop a streamlined workflow for creating parts that would fit together snug without being too tight.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Laser Engraver Testing</title>
       <link>https://www.geofftuttle.com/projects/mpcnc/laser-engraver-testing/</link>
       <pubDate>Mon, 11 Feb 2019 16:31:59 -0500</pubDate>

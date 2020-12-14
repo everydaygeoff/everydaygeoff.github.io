@@ -27,5 +27,14 @@ This is a record of work performed and milestones reached on building my own MPC
 Two part molds allow us to cast more complex shapes than a one part, or open-face, mold. This open face creates a flat surface on the piece we are making.</description>
     </item>
     
+    <item>
+      <title>Needle Cutter Rebuild</title>
+      <link>https://www.geofftuttle.com/projects/mpcnc/needle-cutter-rebuild/</link>
+      <pubDate>Mon, 17 Feb 2020 16:36:06 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/mpcnc/needle-cutter-rebuild/</guid>
+      <description>&lt;p&gt;After a hiatus, I decided to revisit the needle cutter and get back to making planes from the free svg plans on FliteTest. I wanted to characterize the performance of the MPCNC and develop a streamlined workflow for creating parts that would fit together snug without being too tight.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
