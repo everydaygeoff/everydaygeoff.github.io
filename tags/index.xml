@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Geoff Tuttle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 12:16:06 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Dec 2020 12:18:38 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MPCNC</title>
-      <link>https://www.geofftuttle.com/tags/mpcnc/</link>
-      <pubDate>Tue, 01 Dec 2020 12:16:06 -0500</pubDate>
-      
-      <guid>https://www.geofftuttle.com/tags/mpcnc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Printing</title>
+      <title>3d Printing</title>
       <link>https://www.geofftuttle.com/tags/3d-printing/</link>
-      <pubDate>Wed, 14 Oct 2020 06:45:01 -0400</pubDate>
+      <pubDate>Tue, 15 Dec 2020 12:18:38 -0500</pubDate>
       
       <guid>https://www.geofftuttle.com/tags/3d-printing/</guid>
       <description></description>
@@ -28,9 +19,36 @@
     <item>
       <title>Cameras</title>
       <link>https://www.geofftuttle.com/tags/cameras/</link>
-      <pubDate>Sat, 03 Oct 2020 13:33:30 -0400</pubDate>
+      <pubDate>Tue, 15 Dec 2020 12:18:38 -0500</pubDate>
       
       <guid>https://www.geofftuttle.com/tags/cameras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optics</title>
+      <link>https://www.geofftuttle.com/tags/optics/</link>
+      <pubDate>Tue, 15 Dec 2020 12:18:38 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/tags/optics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://www.geofftuttle.com/tags/portfolio/</link>
+      <pubDate>Tue, 15 Dec 2020 12:18:38 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPCNC</title>
+      <link>https://www.geofftuttle.com/tags/mpcnc/</link>
+      <pubDate>Tue, 01 Dec 2020 12:16:06 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/tags/mpcnc/</guid>
       <description></description>
     </item>
     
@@ -49,15 +67,6 @@
       <pubDate>Tue, 29 Sep 2020 00:55:33 -0400</pubDate>
       
       <guid>https://www.geofftuttle.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Portfolio</title>
-      <link>https://www.geofftuttle.com/tags/portfolio/</link>
-      <pubDate>Tue, 29 Sep 2020 00:55:33 -0400</pubDate>
-      
-      <guid>https://www.geofftuttle.com/tags/portfolio/</guid>
       <description></description>
     </item>
     
@@ -139,15 +148,6 @@
       <pubDate>Mon, 11 Feb 2019 16:31:59 -0500</pubDate>
       
       <guid>https://www.geofftuttle.com/tags/laser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optics</title>
-      <link>https://www.geofftuttle.com/tags/optics/</link>
-      <pubDate>Mon, 11 Feb 2019 16:31:59 -0500</pubDate>
-      
-      <guid>https://www.geofftuttle.com/tags/optics/</guid>
       <description></description>
     </item>
     

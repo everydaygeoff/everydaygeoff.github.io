@@ -13,6 +13,47 @@
   </url>
   
   <url>
+    <loc>https://www.geofftuttle.com/blog/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/tags/3d-printing/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/tags/cameras/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/tags/optics/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/tags/portfolio/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/tags/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.geofftuttle.com/blog/20-12-webcam-mod/</loc>
+    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.geofftuttle.com/projects/</loc>
     <lastmod>2020-12-01T12:16:06-05:00</lastmod>
     <priority>0</priority>
@@ -30,17 +71,7 @@
   </url>
   
   <url>
-    <loc>https://www.geofftuttle.com/</loc>
-    <lastmod>2020-12-01T12:16:06-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.geofftuttle.com/tags/mpcnc/</loc>
-    <lastmod>2020-12-01T12:16:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.geofftuttle.com/tags/</loc>
     <lastmod>2020-12-01T12:16:06-05:00</lastmod>
   </url>
   
@@ -60,19 +91,8 @@
   </url>
   
   <url>
-    <loc>https://www.geofftuttle.com/tags/3d-printing/</loc>
-    <lastmod>2020-10-14T06:45:01-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.geofftuttle.com/projects/mpcnc/router-upgrade/</loc>
     <lastmod>2020-10-14T06:45:01-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.geofftuttle.com/blog/</loc>
-    <lastmod>2020-10-03T13:33:30-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -82,11 +102,6 @@
   
   <url>
     <loc>https://www.geofftuttle.com/categories/blog/</loc>
-    <lastmod>2020-10-03T13:33:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.geofftuttle.com/tags/cameras/</loc>
     <lastmod>2020-10-03T13:33:30-04:00</lastmod>
   </url>
   
@@ -107,11 +122,6 @@
   
   <url>
     <loc>https://www.geofftuttle.com/blog/hugo-image-scaling-with-python/</loc>
-    <lastmod>2020-09-29T00:55:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.geofftuttle.com/tags/portfolio/</loc>
     <lastmod>2020-09-29T00:55:33-04:00</lastmod>
   </url>
   
@@ -213,11 +223,6 @@
   
   <url>
     <loc>https://www.geofftuttle.com/projects/mpcnc/laser-engraver-testing/</loc>
-    <lastmod>2019-02-11T16:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.geofftuttle.com/tags/optics/</loc>
     <lastmod>2019-02-11T16:31:59-05:00</lastmod>
   </url>
   

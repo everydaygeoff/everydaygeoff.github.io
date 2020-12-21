@@ -6,7 +6,7 @@
     <description>Recent content on Geoff Tuttle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 12:16:06 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Dec 2020 12:18:38 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MPCNC</title>
       <link>https://www.geofftuttle.com/projects/mpcnc/</link>
@@ -24,6 +24,15 @@ This is a record of work performed and milestones reached on building my own MPC
       
       <guid>https://www.geofftuttle.com/projects/rc-planes/</guid>
       <description>Foamboard monstrosities that somehow fly.</description>
+    </item>
+    
+    <item>
+      <title>Webcam Lens Modification</title>
+      <link>https://www.geofftuttle.com/blog/20-12-webcam-mod/</link>
+      <pubDate>Tue, 15 Dec 2020 12:18:38 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/blog/20-12-webcam-mod/</guid>
+      <description>&lt;p&gt;With the current state of mass telework and increased social distancing, finding new ways to connect with others over shared projects has become a necessary endeavor. This has lead me to upgrade my webcams, and use &lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS&lt;/a&gt; to create a streaming setup to show-and-tell what I have been tinkering with.&lt;/p&gt;</description>
     </item>
     
     <item>
