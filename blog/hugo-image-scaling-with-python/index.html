@@ -107,7 +107,7 @@ It is easy to fall into the efficiency trap and lose sight of the original task.
 <p>There is a lot of community support for python&rsquo;s Pillow image processing library, so I based my script around its functions.</p>
 <h3 id="get-current-folder-name-and-generate-file-prefix">Get current folder name and generate file prefix</h3>
 <p>Before I start a new post, I collect relevant pictures into folders to help organize my thoughts. These folders are named with the month number, and a few words to describe the overall project or subject (&ldquo;05 Generic Project Name&rdquo;). The following snippet collects the all the files within a folder, and uses the folder name to generate a somewhat unique prefix for the images (05gpn). It also builds a list of suffixes so I can easily number the images.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
 <span style="color:#f92672">import</span> os
 
 cwd <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>getcwd()
@@ -124,12 +124,12 @@ suffix <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;01
 <p>For the last part, I could have written a clever bit of code to append &ldquo;0&rdquo; to digits 1..9, but this brings me back to the comic above. I did not want to fall into the &ldquo;Rethinking&rdquo; and &ldquo;Ongoing Development&rdquo; part of the graph&hellip;</p>
 <h3 id="parse-file-list-and-apply-scale-and-quality-reduction">Parse file list, and apply scale and quality reduction</h3>
 <p>The next bit of code sifts through the filelist, removing anything with a &ldquo;jpg&rdquo; or &ldquo;png&rdquo; extension. I added the &ldquo;item.lower()&rdquo; to account for inconsistent case with extensions (&ldquo;jpg&rdquo; vs &ldquo;JPG&rdquo; are treated equally).</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">filelist <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>listdir(cwd)
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">filelist <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>listdir(cwd)
 <span style="color:#66d9ef">for</span> item <span style="color:#f92672">in</span> filelist[:]:
     <span style="color:#66d9ef">if</span> <span style="color:#f92672">not</span>(item<span style="color:#f92672">.</span>lower()<span style="color:#f92672">.</span>endswith(<span style="color:#e6db74">&#34;.png&#34;</span>) <span style="color:#f92672">or</span> item<span style="color:#f92672">.</span>lower()<span style="color:#f92672">.</span>endswith(<span style="color:#e6db74">&#34;.jpg&#34;</span>)):
             filelist<span style="color:#f92672">.</span>remove(item)</code></pre></div>
 <p>The script then iterates though the list of images, scaling them down. The if/else statement swaps the resize(x, y) arguments to account for portrait or landscape pictures. Lastly, tt will rename the files to a more manageable convention for hand typing, and saves them all to the specified quality.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">for</span> item, name <span style="color:#f92672">in</span> zip(filelist, suffix):
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">for</span> item, name <span style="color:#f92672">in</span> zip(filelist, suffix):
     img <span style="color:#f92672">=</span> Image<span style="color:#f92672">.</span>open(cwd<span style="color:#f92672">+</span><span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">&#34;</span><span style="color:#f92672">+</span>item)
     <span style="color:#75715e"># Get image size to determine scaling</span>
     size <span style="color:#f92672">=</span> img<span style="color:#f92672">.</span>size
@@ -146,7 +146,7 @@ suffix <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;01
         img<span style="color:#f92672">.</span>save(cwd<span style="color:#f92672">+</span><span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">&#34;</span><span style="color:#f92672">+</span>prefix<span style="color:#f92672">+</span>name<span style="color:#f92672">+</span><span style="color:#e6db74">&#34;.jpg&#34;</span>, <span style="color:#e6db74">&#39;jpeg&#39;</span>, quality<span style="color:#f92672">=</span><span style="color:#ae81ff">75</span>)</code></pre></div>
 <h2 id="end-result">End Result</h2>
 <p>Putting it all together, the complete script is below. It runs on every jpg and png in the working directory in which it is called.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
 <span style="color:#f92672">import</span> os
 
 <span style="color:#75715e"># Get current folder name and generate file prefix</span>
@@ -158,7 +158,7 @@ prefix <span style="color:#f92672">=</span> folder[<span style="color:#ae81ff">0
     <span style="color:#66d9ef">if</span> each <span style="color:#f92672">!=</span> prefix:
         prefix <span style="color:#f92672">+=</span> each[<span style="color:#ae81ff">0</span>]<span style="color:#f92672">.</span>lower()
 
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Image prefix is: &#34;</span> <span style="color:#f92672">+</span> prefix)
+print(<span style="color:#e6db74">&#34;Image prefix is: &#34;</span> <span style="color:#f92672">+</span> prefix)
 
 <span style="color:#75715e"># Generate suffix 01, 02, 03...</span>
 suffix <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;01&#34;</span>, <span style="color:#e6db74">&#34;02&#34;</span>, <span style="color:#e6db74">&#34;03&#34;</span>, <span style="color:#e6db74">&#34;04&#34;</span>, <span style="color:#e6db74">&#34;05&#34;</span>, <span style="color:#e6db74">&#34;06&#34;</span>, <span style="color:#e6db74">&#34;07&#34;</span>, <span style="color:#e6db74">&#34;08&#34;</span>, <span style="color:#e6db74">&#34;09&#34;</span>]
@@ -232,11 +232,11 @@ filelist <span style="color:#f92672">=</span> os<span style="color:#f92672">.</s
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/projects/godot/parallax-background-in-godot/">Parallax Background</a></li>
 			<li class="widget__item"><a class="widget__link" href="/blog/20-12-webcam-mod/">Webcam Lens Modification</a></li>
 			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/eva-spoilboard/">EVA Spoilboard</a></li>
 			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/getting-better/">Getting Better</a></li>
 			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/spoilboard/">Making a Spoilboard and Breaking Things</a></li>
-			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/router-upgrade/">Router Upgrade</a></li>
 		</ul>
 	</div>
 </div>
@@ -330,6 +330,8 @@ filelist <span style="color:#f92672">=</span> os<span style="color:#f92672">.</s
 		<a class="widget-taglist__link widget__link btn" href="/tags/cameras/" title="Cameras">Cameras (3)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/casting/" title="Casting">Casting (3)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cosplay/" title="Cosplay">Cosplay (1)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/game-dev/" title="game dev">game dev (1)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/godot/" title="godot">godot (1)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/hugo/" title="Hugo">Hugo (1)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/laser/" title="Laser">Laser (2)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/mpcnc/" title="MPCNC">MPCNC (10)</a>

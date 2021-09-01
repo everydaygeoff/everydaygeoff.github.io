@@ -6,7 +6,7 @@
     <description>Recent content on Geoff Tuttle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Dec 2020 12:18:38 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 05:38:41 -0400</lastBuildDate><atom:link href="https://www.geofftuttle.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MPCNC</title>
       <link>https://www.geofftuttle.com/projects/mpcnc/</link>
@@ -23,7 +23,25 @@ This is a record of work performed and milestones reached on building my own MPC
       <pubDate>Fri, 22 Feb 2019 16:38:07 -0500</pubDate>
       
       <guid>https://www.geofftuttle.com/projects/rc-planes/</guid>
-      <description>Foamboard monstrosities that somehow fly.</description>
+      <description>A collection of foamboard and styrofoam planes that have made it into the air.</description>
+    </item>
+    
+    <item>
+      <title>Game Development with Godot</title>
+      <link>https://www.geofftuttle.com/projects/godot/</link>
+      <pubDate>Mon, 30 Aug 2021 16:38:07 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/godot/</guid>
+      <description>A collection of game development projects with the Godot Engine</description>
+    </item>
+    
+    <item>
+      <title>Parallax Background</title>
+      <link>https://www.geofftuttle.com/projects/godot/parallax-background-in-godot/</link>
+      <pubDate>Tue, 31 Aug 2021 05:38:41 -0400</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/godot/parallax-background-in-godot/</guid>
+      <description>&lt;p&gt;Inspired by games like Luftrausers and Jet Lancer, I wanted to try my hand at making a sky background with parallax motion of the clouds.&lt;/p&gt;</description>
     </item>
     
     <item>

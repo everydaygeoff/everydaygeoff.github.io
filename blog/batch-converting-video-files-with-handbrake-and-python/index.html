@@ -106,7 +106,7 @@
 </ol>
 </li>
 </ol>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># This script reads the *.mkv files in a given directory, and uses Handbrake</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># This script reads the *.mkv files in a given directory, and uses Handbrake</span>
 <span style="color:#75715e"># to convert them to a smaller filesize and specific naming scheme.</span>
 <span style="color:#75715e"># This script written by Geoffrey Tuttle</span>
  
@@ -127,16 +127,16 @@ output_path <span style="color:#f92672">=</span> <span style="color:#e6db74">&#3
 <span style="color:#75715e"># Iterate through list of video files, converting them using Handbrake</span>
 <span style="color:#66d9ef">for</span> old_filename <span style="color:#f92672">in</span> handles:
     <span style="color:#75715e"># Create new filename in a readable format for Plex</span>
-    new_filename <span style="color:#f92672">=</span> show_name <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39; S{}E{}&#39;</span><span style="color:#f92672">.</span>format(old_filename[:<span style="color:#ae81ff">2</span>],
+    new_filename <span style="color:#f92672">=</span> show_name <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39; S</span><span style="color:#e6db74">{}</span><span style="color:#e6db74">E</span><span style="color:#e6db74">{}</span><span style="color:#e6db74">&#39;</span><span style="color:#f92672">.</span>format(old_filename[:<span style="color:#ae81ff">2</span>],
                                                 old_filename[<span style="color:#ae81ff">2</span>:])
     <span style="color:#75715e"># Create the command for running Handbrake for each path and filename</span>
     command <span style="color:#f92672">=</span> (<span style="color:#e6db74">&#39;&#34;C:\Program Files\HandbrakeCLI\HandBrakeCLI.exe&#34; -v0 -i &#34;&#39;</span> <span style="color:#f92672">+</span>
-               input_path <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;{}.mkv&#34; -o &#34;&#39;</span><span style="color:#f92672">.</span>format(old_filename) <span style="color:#f92672">+</span> output_path <span style="color:#f92672">+</span>
-               <span style="color:#e6db74">&#39;{}.mp4&#34; --preset=&#34;Normal&#34;&#39;</span><span style="color:#f92672">.</span>format(new_filename))
+               input_path <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;</span><span style="color:#e6db74">{}</span><span style="color:#e6db74">.mkv&#34; -o &#34;&#39;</span><span style="color:#f92672">.</span>format(old_filename) <span style="color:#f92672">+</span> output_path <span style="color:#f92672">+</span>
+               <span style="color:#e6db74">&#39;</span><span style="color:#e6db74">{}</span><span style="color:#e6db74">.mp4&#34; --preset=&#34;Normal&#34;&#39;</span><span style="color:#f92672">.</span>format(new_filename))
  
-    <span style="color:#66d9ef">print</span>(old_filename <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39; conversion started&#39;</span>)
-    call(command, shell<span style="color:#f92672">=</span>True)
-    <span style="color:#66d9ef">print</span>(new_filename <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39; converted&#39;</span>)</code></pre></div>
+    print(old_filename <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39; conversion started&#39;</span>)
+    call(command, shell<span style="color:#f92672">=</span><span style="color:#66d9ef">True</span>)
+    print(new_filename <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39; converted&#39;</span>)</code></pre></div>
 <p>I had just finished up the script and ran a short test when Windows gave me an “Imminent Hard Drive Failure” warning for my Media drive. Instead of taking a chance to going ahead with running this script, I powered down the computer, hopped on my laptop, and ordered a replacement drive so I can back up everything.</p>
 <p>Once the drive arrives and I have copied everything. I will continue with running the script and post a short update to this post.</p>
 
@@ -178,11 +178,11 @@ output_path <span style="color:#f92672">=</span> <span style="color:#e6db74">&#3
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/projects/godot/parallax-background-in-godot/">Parallax Background</a></li>
 			<li class="widget__item"><a class="widget__link" href="/blog/20-12-webcam-mod/">Webcam Lens Modification</a></li>
 			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/eva-spoilboard/">EVA Spoilboard</a></li>
 			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/getting-better/">Getting Better</a></li>
 			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/spoilboard/">Making a Spoilboard and Breaking Things</a></li>
-			<li class="widget__item"><a class="widget__link" href="/projects/mpcnc/router-upgrade/">Router Upgrade</a></li>
 		</ul>
 	</div>
 </div>
@@ -276,6 +276,8 @@ output_path <span style="color:#f92672">=</span> <span style="color:#e6db74">&#3
 		<a class="widget-taglist__link widget__link btn" href="/tags/cameras/" title="Cameras">Cameras (3)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/casting/" title="Casting">Casting (3)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cosplay/" title="Cosplay">Cosplay (1)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/game-dev/" title="game dev">game dev (1)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/godot/" title="godot">godot (1)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/hugo/" title="Hugo">Hugo (1)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/laser/" title="Laser">Laser (2)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/mpcnc/" title="MPCNC">MPCNC (10)</a>
