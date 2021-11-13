@@ -11,6 +11,25 @@
     <loc>https://www.geofftuttle.com/projects/godot/</loc>
     <lastmod>2021-08-30T16:38:07-05:00</lastmod>
   </url><url>
+    <loc>https://www.geofftuttle.com/blog/</loc>
+    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://www.geofftuttle.com/tags/blog/</loc>
+    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.geofftuttle.com/</loc>
+    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.geofftuttle.com/tags/programming/</loc>
+    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.geofftuttle.com/tags/</loc>
+    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.geofftuttle.com/blog/thoughts-on-programming/</loc>
+    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+  </url><url>
     <loc>https://www.geofftuttle.com/projects/</loc>
     <lastmod>2021-08-31T05:38:41-04:00</lastmod>
     <priority>0</priority>
@@ -22,21 +41,11 @@
     <loc>https://www.geofftuttle.com/tags/game-dev/</loc>
     <lastmod>2021-08-31T05:38:41-04:00</lastmod>
   </url><url>
-    <loc>https://www.geofftuttle.com/</loc>
-    <lastmod>2021-08-31T05:38:41-04:00</lastmod>
-  </url><url>
     <loc>https://www.geofftuttle.com/tags/godot/</loc>
     <lastmod>2021-08-31T05:38:41-04:00</lastmod>
   </url><url>
     <loc>https://www.geofftuttle.com/projects/godot/parallax-background-in-godot/</loc>
     <lastmod>2021-08-31T05:38:41-04:00</lastmod>
-  </url><url>
-    <loc>https://www.geofftuttle.com/tags/</loc>
-    <lastmod>2021-08-31T05:38:41-04:00</lastmod>
-  </url><url>
-    <loc>https://www.geofftuttle.com/blog/</loc>
-    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
-    <priority>0</priority>
   </url><url>
     <loc>https://www.geofftuttle.com/tags/3d-printing/</loc>
     <lastmod>2020-12-15T12:18:38-05:00</lastmod>
@@ -93,8 +102,14 @@
     <loc>https://www.geofftuttle.com/blog/hugo-image-scaling-with-python/</loc>
     <lastmod>2020-09-29T00:55:33-04:00</lastmod>
   </url><url>
-    <loc>https://www.geofftuttle.com/tags/programming/</loc>
-    <lastmod>2020-09-29T00:55:33-04:00</lastmod>
+    <loc>https://www.geofftuttle.com/tags/painting/</loc>
+    <lastmod>2020-09-27T15:18:49-04:00</lastmod>
+  </url><url>
+    <loc>https://www.geofftuttle.com/blog/sate-display-piece/</loc>
+    <lastmod>2020-09-27T15:18:49-04:00</lastmod>
+  </url><url>
+    <loc>https://www.geofftuttle.com/tags/tabletop/</loc>
+    <lastmod>2020-09-27T15:18:49-04:00</lastmod>
   </url><url>
     <loc>https://www.geofftuttle.com/blog/week-in-review-003/</loc>
     <lastmod>2020-05-31T22:19:40-04:00</lastmod>
@@ -105,13 +120,7 @@
     <loc>https://www.geofftuttle.com/tags/casting/</loc>
     <lastmod>2020-05-24T17:08:35-04:00</lastmod>
   </url><url>
-    <loc>https://www.geofftuttle.com/tags/painting/</loc>
-    <lastmod>2020-05-24T17:08:35-04:00</lastmod>
-  </url><url>
     <loc>https://www.geofftuttle.com/blog/week-in-review-002/</loc>
-    <lastmod>2020-05-24T17:08:35-04:00</lastmod>
-  </url><url>
-    <loc>https://www.geofftuttle.com/tags/tabletop/</loc>
     <lastmod>2020-05-24T17:08:35-04:00</lastmod>
   </url><url>
     <loc>https://www.geofftuttle.com/tags/action-figures/</loc>
