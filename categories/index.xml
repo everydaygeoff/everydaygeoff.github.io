@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on geoffWorks</title>
-    <link>https://www.geoff.works/categories/</link>
-    <description>Recent content in Categories on geoffWorks</description>
+    <title>Categories on </title>
+    <link>https://www.everydaygeoff.com/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2020 13:33:30 -0400</lastBuildDate><atom:link href="https://www.geoff.works/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2020 13:33:30 -0400</lastBuildDate><atom:link href="https://www.everydaygeoff.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://www.geoff.works/categories/blog/</link>
+      <link>https://www.everydaygeoff.com/categories/blog/</link>
       <pubDate>Sat, 03 Oct 2020 13:33:30 -0400</pubDate>
       
-      <guid>https://www.geoff.works/categories/blog/</guid>
+      <guid>https://www.everydaygeoff.com/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.geoff.works/categories/projects/</link>
+      <link>https://www.everydaygeoff.com/categories/projects/</link>
       <pubDate>Wed, 29 Jun 2016 13:04:48 +0000</pubDate>
       
-      <guid>https://www.geoff.works/categories/projects/</guid>
+      <guid>https://www.everydaygeoff.com/categories/projects/</guid>
       <description></description>
     </item>
     

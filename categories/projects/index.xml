@@ -1,57 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on geoffWorks</title>
-    <link>https://www.geoff.works/categories/projects/</link>
-    <description>Recent content in Projects on geoffWorks</description>
+    <title>Projects on </title>
+    <link>https://www.everydaygeoff.com/categories/projects/</link>
+    <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2016 13:04:48 +0000</lastBuildDate><atom:link href="https://www.geoff.works/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2016 13:04:48 +0000</lastBuildDate><atom:link href="https://www.everydaygeoff.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scanning Bones for 3D Printing</title>
-      <link>https://www.geoff.works/blog/scanning-bones-for-3d-printing/</link>
+      <link>https://www.everydaygeoff.com/blog/scanning-bones-for-3d-printing/</link>
       <pubDate>Wed, 29 Jun 2016 13:04:48 +0000</pubDate>
       
-      <guid>https://www.geoff.works/blog/scanning-bones-for-3d-printing/</guid>
+      <guid>https://www.everydaygeoff.com/blog/scanning-bones-for-3d-printing/</guid>
       <description>In collaboration with my university&amp;rsquo;s anthropology department, I had the opportunity to scan skeleton fragments with the intent to 3d print copies. Yesterday, I finally got a sample scanned and printed.
 I placed the skull fragment on the rotating platform of a NextEngine 3d scanner, giving a full 360 degree view of the object. I did this twice at different orientations, and used the scanner software to fuse the scans together.</description>
     </item>
     
     <item>
+      <title>Scanning Bones for 3D Printing</title>
+      <link>https://www.everydaygeoff.com/posts/scanning-bones-for-3d-printing/</link>
+      <pubDate>Wed, 29 Jun 2016 13:04:48 +0000</pubDate>
+      
+      <guid>https://www.everydaygeoff.com/posts/scanning-bones-for-3d-printing/</guid>
+      <description>In collaboration with my university&amp;rsquo;s anthropology department, I had the opportunity to scan skeleton fragments with the intent to 3d print copies. Yesterday, I finally got a sample scanned and printed.
+![2016-06-28 13.42.45](img/wp_imgs/2016/06/2016-06-28-13-42-45.jpg)
+I placed the skull fragment on the rotating platform of a NextEngine 3d scanner, giving a full 360 degree view of the object. I did this twice at different orientations, and used the scanner software to fuse the scans together.</description>
+    </item>
+    
+    <item>
       <title>Laser Mount for Classroom Use</title>
-      <link>https://www.geoff.works/blog/laser-mount-for-classroom-use/</link>
+      <link>https://www.everydaygeoff.com/blog/laser-mount-for-classroom-use/</link>
       <pubDate>Tue, 29 Mar 2016 10:46:00 +0000</pubDate>
       
-      <guid>https://www.geoff.works/blog/laser-mount-for-classroom-use/</guid>
+      <guid>https://www.everydaygeoff.com/blog/laser-mount-for-classroom-use/</guid>
+      <description>A friend of mine was in need of a set of cheap lasers for a class he was teaching on optics. Instead of using enclosed laser pointers that ran on obscure button cell batteries, he decided to purchase laser diodes and wire them for connection to a benchtop power supply. This allows for a more hands-on approach for the students, getting them more involved in the projects they are working on.</description>
+    </item>
+    
+    <item>
+      <title>Laser Mount for Classroom Use</title>
+      <link>https://www.everydaygeoff.com/posts/laser-mount-for-classroom-use/</link>
+      <pubDate>Tue, 29 Mar 2016 10:46:00 +0000</pubDate>
+      
+      <guid>https://www.everydaygeoff.com/posts/laser-mount-for-classroom-use/</guid>
       <description>A friend of mine was in need of a set of cheap lasers for a class he was teaching on optics. Instead of using enclosed laser pointers that ran on obscure button cell batteries, he decided to purchase laser diodes and wire them for connection to a benchtop power supply. This allows for a more hands-on approach for the students, getting them more involved in the projects they are working on.</description>
     </item>
     
     <item>
       <title>Soda Cap</title>
-      <link>https://www.geoff.works/blog/soda-cap/</link>
+      <link>https://www.everydaygeoff.com/blog/soda-cap/</link>
       <pubDate>Sun, 17 Aug 2014 11:36:09 +0000</pubDate>
       
-      <guid>https://www.geoff.works/blog/soda-cap/</guid>
+      <guid>https://www.everydaygeoff.com/blog/soda-cap/</guid>
       <description>A close friend works at a nearby bee farm, assembling and packing various products to ship out. This manufacturing involves a lot of dust floating around the production floor, and he asked if I could print something that would snap over his soda can to keep the stray particles out. I figured this was a perfect opportunity to practice some 3d CAD and get the printer going.
 I intended the first version to simply rotate around the top of the can, protecting the hole from dust.</description>
     </item>
     
     <item>
+      <title>Soda Cap</title>
+      <link>https://www.everydaygeoff.com/posts/soda-cap/</link>
+      <pubDate>Sun, 17 Aug 2014 11:36:09 +0000</pubDate>
+      
+      <guid>https://www.everydaygeoff.com/posts/soda-cap/</guid>
+      <description>A close friend works at a nearby bee farm, assembling and packing various products to ship out. This manufacturing involves a lot of dust floating around the production floor, and he asked if I could print something that would snap over his soda can to keep the stray particles out. I figured this was a perfect opportunity to practice some 3d CAD and get the printer going.
+![2014-08-16 16.56.39](img/wp_imgs/2016/03/2014-08-16-16-56-39.jpg)
+I intended the first version to simply rotate around the top of the can, protecting the hole from dust.</description>
+    </item>
+    
+    <item>
       <title>3d Scanner - MATLAB</title>
-      <link>https://www.geoff.works/blog/3d-scanner-matlab/</link>
+      <link>https://www.everydaygeoff.com/blog/3d-scanner-matlab/</link>
       <pubDate>Fri, 09 May 2014 20:39:00 +0000</pubDate>
       
-      <guid>https://www.geoff.works/blog/3d-scanner-matlab/</guid>
+      <guid>https://www.everydaygeoff.com/blog/3d-scanner-matlab/</guid>
       <description>For a project in my computational physics class, I wanted to create something more than a program. With an old webcam, a pantry turntable, and a cheap laser, I figured I could use MATLAB&amp;rsquo;s image processing abilities to create proof-of-concept 3d scanner.
 By centering the object on the turntable, and projecting the laser line onto the object, I can use the camera to collect images while rotating the object at known intervals.</description>
     </item>
     
     <item>
+      <title>3d Scanner - MATLAB</title>
+      <link>https://www.everydaygeoff.com/posts/3d-scanner-matlab/</link>
+      <pubDate>Fri, 09 May 2014 20:39:00 +0000</pubDate>
+      
+      <guid>https://www.everydaygeoff.com/posts/3d-scanner-matlab/</guid>
+      <description>For a project in my computational physics class, I wanted to create something more than a program. With an old webcam, a pantry turntable, and a cheap laser, I figured I could use MATLAB&amp;rsquo;s image processing abilities to create proof-of-concept 3d scanner.
+![2014-05-09 15.17.55.jpg](img/wp_imgs/2014/05/2014-05-09-15-17-55.jpg)
+By centering the object on the turntable, and projecting the laser line onto the object, I can use the camera to collect images while rotating the object at known intervals.</description>
+    </item>
+    
+    <item>
       <title>Printrbot Simple Metal</title>
-      <link>https://www.geoff.works/blog/printrbot-simple-metal/</link>
+      <link>https://www.everydaygeoff.com/blog/printrbot-simple-metal/</link>
       <pubDate>Mon, 21 Apr 2014 20:21:54 +0000</pubDate>
       
-      <guid>https://www.geoff.works/blog/printrbot-simple-metal/</guid>
+      <guid>https://www.everydaygeoff.com/blog/printrbot-simple-metal/</guid>
+      <description>Here is my newly assembled Printrbot Simple Metal. I ordered the printer as a kit, and assembled it this past weekend. So far, it has proven to be a robust machine. Here is a time lapse of the build:
+  </description>
+    </item>
+    
+    <item>
+      <title>Printrbot Simple Metal</title>
+      <link>https://www.everydaygeoff.com/posts/printrbot-simple-metal/</link>
+      <pubDate>Mon, 21 Apr 2014 20:21:54 +0000</pubDate>
+      
+      <guid>https://www.everydaygeoff.com/posts/printrbot-simple-metal/</guid>
       <description>Here is my newly assembled Printrbot Simple Metal. I ordered the printer as a kit, and assembled it this past weekend. So far, it has proven to be a robust machine. Here is a time lapse of the build:
   </description>
     </item>
