@@ -12,19 +12,28 @@
     <lastmod>2021-08-30T16:38:07-05:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/</loc>
-    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+    <lastmod>2022-03-28T07:03:18-04:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/</loc>
-    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
+    <lastmod>2022-03-28T07:03:18-04:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.everydaygeoff.com/tags/books/</loc>
+    <lastmod>2022-03-28T07:03:18-04:00</lastmod>
+  </url><url>
+    <loc>https://www.everydaygeoff.com/blog/220328-currently-reading/</loc>
+    <lastmod>2022-03-28T07:03:18-04:00</lastmod>
+  </url><url>
+    <loc>https://www.everydaygeoff.com/tags/reading/</loc>
+    <lastmod>2022-03-28T07:03:18-04:00</lastmod>
+  </url><url>
+    <loc>https://www.everydaygeoff.com/tags/</loc>
+    <lastmod>2022-03-28T07:03:18-04:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/tags/blog/</loc>
     <lastmod>2021-11-12T09:01:34-05:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/tags/programming/</loc>
-    <lastmod>2021-11-12T09:01:34-05:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/tags/</loc>
     <lastmod>2021-11-12T09:01:34-05:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/thoughts-on-programming/</loc>
@@ -59,13 +68,7 @@
     <loc>https://www.everydaygeoff.com/tags/portfolio/</loc>
     <lastmod>2020-12-15T12:18:38-05:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/</loc>
-    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/20-12-webcam-mod/</loc>
-    <lastmod>2020-12-15T12:18:38-05:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/20-12-webcam-mod/</loc>
     <lastmod>2020-12-15T12:18:38-05:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/projects/mpcnc/</loc>
@@ -93,9 +96,6 @@
     <loc>https://www.everydaygeoff.com/blog/antares-launch/</loc>
     <lastmod>2020-10-03T13:33:30-04:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/antares-launch/</loc>
-    <lastmod>2020-10-03T13:33:30-04:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/categories/blog/</loc>
     <lastmod>2020-10-03T13:33:30-04:00</lastmod>
   </url><url>
@@ -111,25 +111,16 @@
     <loc>https://www.everydaygeoff.com/blog/hugo-image-scaling-with-python/</loc>
     <lastmod>2020-09-29T00:55:33-04:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/hugo-image-scaling-with-python/</loc>
-    <lastmod>2020-09-29T00:55:33-04:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/tags/painting/</loc>
     <lastmod>2020-09-27T15:18:49-04:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/sate-display-piece/</loc>
     <lastmod>2020-09-27T15:18:49-04:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/sate-display-piece/</loc>
-    <lastmod>2020-09-27T15:18:49-04:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/tags/tabletop/</loc>
     <lastmod>2020-09-27T15:18:49-04:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/week-in-review-003/</loc>
-    <lastmod>2020-05-31T22:19:40-04:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/week-in-review-003/</loc>
     <lastmod>2020-05-31T22:19:40-04:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/tags/walking/</loc>
@@ -141,25 +132,16 @@
     <loc>https://www.everydaygeoff.com/blog/week-in-review-002/</loc>
     <lastmod>2020-05-24T17:08:35-04:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/week-in-review-002/</loc>
-    <lastmod>2020-05-24T17:08:35-04:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/tags/action-figures/</loc>
     <lastmod>2020-05-17T06:21:02-04:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/week-in-review-001/</loc>
     <lastmod>2020-05-17T06:21:02-04:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/week-in-review-001/</loc>
-    <lastmod>2020-05-17T06:21:02-04:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/tags/resin/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/two-part-mold-making/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/two-part-mold-making/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/projects/rc-planes/</loc>
@@ -208,25 +190,13 @@
     <loc>https://www.everydaygeoff.com/blog/cosplay-blaster/</loc>
     <lastmod>2018-02-14T15:48:33-05:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/cosplay-blaster/</loc>
-    <lastmod>2018-02-14T15:48:33-05:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/google-home-mini-wall-mount/</loc>
-    <lastmod>2018-01-23T12:12:12+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/google-home-mini-wall-mount/</loc>
     <lastmod>2018-01-23T12:12:12+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/batch-converting-video-files-with-handbrake-and-python/</loc>
     <lastmod>2016-08-07T19:35:17+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/batch-converting-video-files-with-handbrake-and-python/</loc>
-    <lastmod>2016-08-07T19:35:17+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/ikea-lamp-to-camera-mount/</loc>
-    <lastmod>2016-07-28T02:43:28+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/ikea-lamp-to-camera-mount/</loc>
     <lastmod>2016-07-28T02:43:28+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/categories/projects/</loc>
@@ -235,73 +205,37 @@
     <loc>https://www.everydaygeoff.com/blog/scanning-bones-for-3d-printing/</loc>
     <lastmod>2016-06-29T13:04:48+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/scanning-bones-for-3d-printing/</loc>
-    <lastmod>2016-06-29T13:04:48+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/printrbot-simple-metal-upgrade/</loc>
-    <lastmod>2016-06-26T12:20:21+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/printrbot-simple-metal-upgrade/</loc>
     <lastmod>2016-06-26T12:20:21+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/reviving-an-old-powderbed-printer/</loc>
     <lastmod>2016-05-31T10:55:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/reviving-an-old-powderbed-printer/</loc>
-    <lastmod>2016-05-31T10:55:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/filament-extrusion/</loc>
-    <lastmod>2016-05-10T03:13:22+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/filament-extrusion/</loc>
     <lastmod>2016-05-10T03:13:22+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/laser-mount-for-classroom-use/</loc>
     <lastmod>2016-03-29T10:46:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/laser-mount-for-classroom-use/</loc>
-    <lastmod>2016-03-29T10:46:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/ct-scan-to-stl/</loc>
-    <lastmod>2016-02-27T12:15:24+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/ct-scan-to-stl/</loc>
     <lastmod>2016-02-27T12:15:24+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/new-nozzle-under-the-microscope/</loc>
     <lastmod>2016-02-26T10:36:13+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/new-nozzle-under-the-microscope/</loc>
-    <lastmod>2016-02-26T10:36:13+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/silicon-cell-print/</loc>
-    <lastmod>2015-11-09T13:04:10+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/silicon-cell-print/</loc>
     <lastmod>2015-11-09T13:04:10+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/logo-print/</loc>
     <lastmod>2014-12-15T15:49:29+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/logo-print/</loc>
-    <lastmod>2014-12-15T15:49:29+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/soda-cap/</loc>
-    <lastmod>2014-08-17T11:36:09+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/soda-cap/</loc>
     <lastmod>2014-08-17T11:36:09+00:00</lastmod>
   </url><url>
     <loc>https://www.everydaygeoff.com/blog/3d-scanner-matlab/</loc>
     <lastmod>2014-05-09T20:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.everydaygeoff.com/posts/3d-scanner-matlab/</loc>
-    <lastmod>2014-05-09T20:39:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.everydaygeoff.com/blog/printrbot-simple-metal/</loc>
-    <lastmod>2014-04-21T20:21:54+00:00</lastmod>
-  </url><url>
-    <loc>https://www.everydaygeoff.com/posts/printrbot-simple-metal/</loc>
     <lastmod>2014-04-21T20:21:54+00:00</lastmod>
   </url>
 </urlset>

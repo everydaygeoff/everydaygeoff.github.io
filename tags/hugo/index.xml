@@ -16,14 +16,5 @@
       <description>This blog is built using Hugo, a static website generator designed for quick build times and easy deployment. A static website requires no server backend, since everything is delivered in a static state to the reader (that&amp;rsquo;s you!). All code is executed on the client machine. I love the lightweight simplicity of a static website, which brings up some nostalgia for the internet of the mid to late 90s, when these types of pages were the norm.</description>
     </item>
     
-    <item>
-      <title>Image Scaling With Python</title>
-      <link>https://www.everydaygeoff.com/posts/hugo-image-scaling-with-python/</link>
-      <pubDate>Tue, 29 Sep 2020 00:55:33 -0400</pubDate>
-      
-      <guid>https://www.everydaygeoff.com/posts/hugo-image-scaling-with-python/</guid>
-      <description>This blog is built using Hugo, a static website generator designed for quick build times and easy deployment. A static website requires no server backend, since everything is delivered in a static state to the reader (that&amp;rsquo;s you!). All code is executed on the client machine. I love the lightweight simplicity of a static website, which brings up some nostalgia for the internet of the mid to late 90s, when these types of pages were the norm.</description>
-    </item>
-    
   </channel>
 </rss>
